@@ -30,32 +30,42 @@ This commands includes
 <BR>
 
 ## Output
+
 ### NETSTAT
 ![alt text](image.png)
+
 
 ### IPCONFIG
 ![alt text](image-1.png)
 
+
 ### PING
 ![alt text](image-2.png)
+
 
 ### TRACERT
 ![alt text](image-3.png)
 
+
 ### NSLOOKUP
 ![alt text](image-4.png)
+
 
 ### GETMAC
 ![alt text](image-5.png)
 
+
 ### HOSTNAME
 ![alt text](image-6.png)
+
 
 ### NBTSTAT
 ![alt text](image-7.png)
 
+
 ### ARP
 ![alt text](image-8.png)
+
 
 ### SYSTEMINFO
 ![alt text](image-9.png)
